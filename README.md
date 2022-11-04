@@ -24,7 +24,7 @@ Criando um plano de estudos para frontend com Github
 ## 🛋️ Tasks para maximizar o apredizado
 
 - [x] Comecar a estudar front
-- [ ] Assistir ao curso
+- [x] Assistir ao curso
 - [ ] Fazert anotações
 - [ ] Fazeer o projetos sozinhos
 - [ ] Tirar as duvidas
