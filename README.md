@@ -25,10 +25,9 @@ Criando um plano de estudos para frontend com Github
 
 - [x] Comecar a estudar front
 - [ ] Assistir ao curso
-- [ ] fazer anotações
-- [ ] fazer os projetos sozinhos
-- [ ] tirar as dúvidas
+- [ ] Fazert anotações
+- [ ] Fazeer o projetos sozinhos
+- [ ] Tirar as duvidas
 - [ ] assistir as mentorias
-- [ ] Done ㊗️
+- [ ] Done !㊗️
 
-<!-- O nobre projeta coisas nobres, e na sua nobreza persaverará -->
