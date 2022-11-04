@@ -19,3 +19,16 @@ Criando um plano de estudos para frontend com Github
 - [ ] Parte 2 (até 17/11/22)
 - [ ] Parte 3 (até 24/11/22)
 - [ ] Parte 4 (até 30/11/22)
+
+
+## 🛋️ Tasks para maximizar o apredizado
+
+- [x] Comecar a estudar front
+- [ ] Assistir ao curso
+- [ ] fazer anotações
+- [ ] fazer os projetos sozinhos
+- [ ] tirar as dúvidas
+- [ ] assistir as mentorias
+- [ ] Done ㊗️
+
+<!-- O nobre projeta coisas nobres, e na sua nobreza persaverará -->
